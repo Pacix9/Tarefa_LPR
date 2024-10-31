@@ -1,0 +1,14 @@
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\bin\Debug\net8.0\tarefa_do_zé.exe
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\bin\Debug\net8.0\tarefa_do_zé.deps.json
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\bin\Debug\net8.0\tarefa_do_zé.runtimeconfig.json
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\bin\Debug\net8.0\tarefa_do_zé.dll
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\bin\Debug\net8.0\tarefa_do_zé.pdb
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\obj\Debug\net8.0\tarefa_do_zé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\obj\Debug\net8.0\tarefa_do_zé.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\obj\Debug\net8.0\tarefa_do_zé.AssemblyInfo.cs
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\obj\Debug\net8.0\tarefa_do_zé.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\obj\Debug\net8.0\tarefa_do_zé.dll
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\obj\Debug\net8.0\refint\tarefa_do_zé.dll
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\obj\Debug\net8.0\tarefa_do_zé.pdb
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\obj\Debug\net8.0\tarefa_do_zé.genruntimeconfig.cache
+C:\Users\julio\source\repos\tarefa_do_zé\tarefa_do_zé\obj\Debug\net8.0\ref\tarefa_do_zé.dll

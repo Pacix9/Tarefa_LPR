@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarefa_do_ze2/1.0.0": {
+        "runtime": {
+          "Tarefa_do_ze2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarefa_do_ze2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
